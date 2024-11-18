@@ -351,6 +351,11 @@
 - **IRSTD-1k**: Shape matters for infrared small target detection.
   + M. Zhang, R. Zhang, Y. Yang et al. **CVPR, 2022**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/RuiZhang97/ISNet)
+    
+- **dim-small aircraft target**: A dataset for infrared image dim-small aircraft target detection and tracking under ground / air background.
+  + Bingwei Hui1, Zhiyong Song1, Hongqi Fan1, Ping Zhong1, Weidong Hu1, Xiaofeng Zhang2, Jianguo Ling2, Hongyan Su2, Wei Jin2, Yongjie Zhang2, Yaxi Bai2
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)
+    
 
 
 
