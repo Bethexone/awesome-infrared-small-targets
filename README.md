@@ -354,7 +354,7 @@
     
 - **dim-small aircraft target**: A dataset for infrared image dim-small aircraft target detection and tracking under ground / air background.
   + Bingwei Hui1, Zhiyong Song1, Hongqi Fan1, Ping Zhong1, Weidong Hu1, Xiaofeng Zhang2, Jianguo Ling2, Hongyan Su2, Wei Jin2, Yongjie Zhang2, Yaxi Bai2
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)
+  + [![](https://img.shields.io/badge/Link-Dataset-blue)](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)
     
 
 
