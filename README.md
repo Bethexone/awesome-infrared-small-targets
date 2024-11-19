@@ -356,6 +356,10 @@
   + Bingwei Hui1, Zhiyong Song1, Hongqi Fan1, Ping Zhong1, Weidong Hu1, Xiaofeng Zhang2, Jianguo Ling2, Hongyan Su2, Wei Jin2, Yongjie Zhang2, Yaxi Bai2
   + [![](https://img.shields.io/badge/Link-Dataset-blue)](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)
     
+- **A dataset for infrared time-sensitive target detection and tracking for air-ground application**: A dataset for infrared time-sensitive target detection and tracking for air-ground application
+  + Ruigang Fu ; Hongqi Fan; Yongfeng Zhu ; Bingwei Hui ; Zhilong Zhang ; Ping Zhong ; Dongdong Li ; Shaoliang Zhang ; Gang Chen ; Luo Wang
+  + [![](https://img.shields.io/badge/Link-Dataset-blue)](https://www.scidb.cn/en/detail?dataSetId=de971a1898774dc5921b68793817916e)
+    
 
 
 
